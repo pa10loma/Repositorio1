@@ -1,1 +1,4 @@
-com\gavilan\clase7922\Control.class
+Controlador\Controlador.class
+Controlador\Conexion.class
+Controlador\PersonaDAO.class
+Controlador\PersonaDTO.class
